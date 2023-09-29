@@ -22,7 +22,7 @@ pip install requests
 1. Clone este repositório para o seu ambiente local:
 
 ```bash
-git clone https://github.com/GabrielEnriqueLS/Api_Cep_python-.git
+git clone https://github.com/GabrielEnriqueLS/Api_Cep_python.git
 ```
 
 2. Navegue até o diretório do projeto:
